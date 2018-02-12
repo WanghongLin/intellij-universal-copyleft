@@ -1,0 +1,1 @@
+# intellij-universal-copyleft
